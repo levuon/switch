@@ -3,7 +3,7 @@
 
 
 ```bash
-   on terminal
+   ##on terminal
 
    $ traceur test/test.js
 
